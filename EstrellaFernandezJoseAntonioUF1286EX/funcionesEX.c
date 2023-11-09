@@ -4,7 +4,9 @@
  *  Created on: 6 nov 2023
  *      Author: usuario
  */
-
+/**
+ *
+ */
 float precio3x2(float precio,int cantidad){
 	return (cantidad-cantidad/3)*precio;
 
